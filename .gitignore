@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+
+_research
+**/.ipynb_checkpoints
+dump
