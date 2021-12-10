@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "Please cite this research as below."
+authors:
+- family-names: "Podusenko"
+  given-names: "Albert"
+  orcid: https://orcid.org/0000-0003-0515-0465""
+- family-names: "van Erp"
+  given-names: "Bart"
+  orcid: "https://orcid.org/0000-0002-5619-7071"
+- family-names: "Dmitry"
+  given-names: "Bagaev"
+- family-names: "Ismail"
+  given-names: "Senoz"
+- family-names: "de Vries"
+  given-names: "Bert"
+title: "mlsp2021-gmm"
+version: 1.0.0
+date-released: 2021-05-27
+url: "https://github.com/mlsp2021-gmm/gmm-experiments/"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Podusenko"
+    given-names: "Albert"
+    orcid: https://orcid.org/0000-0003-0515-0465""
+  - family-names: "van Erp"
+    given-names: "Bart"
+    orcid: "https://orcid.org/0000-0002-5619-7071"
+  - family-names: "Dmitry"
+    given-names: "Bagaev"
+  - family-names: "Ismail"
+    given-names: "Senoz"
+  - family-names: "de Vries"
+    given-names: "Bert"
+  title: "Message Passing-Based Inference in the Gamma Mixture Model"
+  year: 2021
+  month: 10
+  conference:
+    - name: 2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)
+  start: 1
+  end: 6
+  doi: "10.1109/MLSP52302.2021.9596329"
